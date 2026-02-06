@@ -81,9 +81,9 @@ python 5_loops.py
 | Field | Information |
 |-------|-------------|
 | **Name** | Sourav Varma Gottumukkala |
-| **Internship** | Data Science Internship – Innomatics Research Labs |
-| **Task** | Basic Python Programming - Programming Task 1 |
-| **Date** | December 2025 |
+| **Assignment** | Basic Python Programming - Programming Task 1 |
+| **Internship** | Data Science Internship |
+| **Organization** | Innomatics Research Labs |
 
 ---
 
@@ -96,7 +96,7 @@ This repository demonstrates my understanding of:
 - Clean coding practices  
 - GitHub workflow  
 
-This completes **Internship Assignment – 1**  successfully.
+**This completes Internship Assignment => Basic Python Programming - Programming Task 1 successfully.**
 
 ---
 
