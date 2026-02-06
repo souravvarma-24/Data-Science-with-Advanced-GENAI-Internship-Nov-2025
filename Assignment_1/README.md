@@ -10,7 +10,7 @@ This repository contains **solutions to 7 foundational Python programming tasks*
 All assignment programs are organized as separate Python files:
 
 ```
-📁 Sourav_419_Internship_Assignment_1
+📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_1
  ├── 1_hello_world.py
  ├── 2_if_else.py
  ├── 3_arithmetic_operators.py
