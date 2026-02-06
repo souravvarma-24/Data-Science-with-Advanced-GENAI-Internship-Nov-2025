@@ -2,8 +2,8 @@
 
 *Innomatics Research Labs – Data Science Internship*
 
-This repository contains a **business-focused data analysis case study** on pizza delivery times for a Domino’s franchise store.  
-The analysis evaluates whether the store meets Domino’s operational performance requirement based on delivery efficiency.
+This repository contains a **business-focused data analysis case study** on pizza delivery times for a Dimino’s franchise store.  
+The analysis evaluates whether the store meets Dimino’s operational performance requirement based on delivery efficiency.
 
 The primary objective is to assess **service reliability, risk factors, and percentile-based performance**, rather than building predictive models.
 
@@ -14,8 +14,8 @@ The primary objective is to assess **service reliability, risk factors, and perc
 All project files are organized inside a structured folder:
 
 ```
-📁 Dominos-Delivery-Time-Analysis
- ├── Task_2_-_Diminos_Case_Study.ipynb
+📁 Diminos-Delivery-Time-Analysis
+ ├── Task 2 - Diminos Case Study.ipynb
  ├── diminos_data.csv
  ├── README.md
  └── requirements.txt
@@ -27,7 +27,7 @@ Each file contributes directly to the business analysis workflow.
 
 ## 🧩 Business Problem
 
-Domino’s evaluates store performance using the following key metric:
+Dimino’s evaluates store performance using the following key metric:
 
 - **95% of all orders must be delivered within 31 minutes**
 
