@@ -70,14 +70,12 @@ pip install -r requirements.txt
 
 ---
 
-## 🧑‍🎓 Intern Details
-
 | Field | Information |
 |------|-------------|
-| Name | Sourav Varma Gottumukkala |
-| Assignment | Task 1 - Analysis on ML Test Scores |
-| Internship | Data Science Internship |
-| Organization | Innomatics Research Labs |
+| **Name** | Sourav Varma Gottumukkala |
+| **Assignment** | Task 1 - Analysis on ML Test Scores |
+| **Internship** | Data Science Internship |
+| **Organization** | Innomatics Research Labs |
 
 ---
 
