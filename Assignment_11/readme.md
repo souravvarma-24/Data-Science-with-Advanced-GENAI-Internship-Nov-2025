@@ -1,6 +1,10 @@
 ## 🚀 Final Project (For Advance Participants) - URL Shortner Application
 
+---
+
 **Innomatics Research Labs – Data Science Internship**
+
+---
 
 This repository contains an **Advanced URL Shortener Web Application** developed using Flask.  
 The application implements **user authentication, session management, protected routes, and user-specific URL history**, making it comparable to real-world backend systems.
