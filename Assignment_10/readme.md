@@ -25,12 +25,6 @@ The application should use Flask for backend development, HTML/CSS for frontend 
 All submission files are organized as shown below:
 
 ```
-
-## 📁 Project Structure
-
-All submission files are organized as shown below:
-
-```
 📁 Sourav_419_Data-Science-with-Advanced-GENAI-Internship_Assignment_10
 │
 ├── app.py
